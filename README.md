@@ -83,7 +83,7 @@ Tools, experiments and portfolios you can explore here on GitHub.
 | **Anmol Portfolio** | Video editor portfolio | [Code](https://github.com/jaspreetsinghdev786/Anmol-Portfolio) · [Live ↗](https://anmol-inky.vercel.app/) |
 | **Gurpreet Portfolio** | Artist portfolio | [Code](https://github.com/jaspreetsinghdev786/Gurpreet-singh-Portfolio) · [Live ↗](https://gurpreet-singh-portfolio-gamma.vercel.app/) |
 | **Rohit Portfolio** | Video gallery, category filters and responsive playback | [Repository →](https://github.com/jaspreetsinghdev786/rohit-portfolio) |
-| **My Portfolio** | The design, live work and story behind these builds | [Code](https://github.com/jaspreetsinghdev786/Jaspreet-singh-Portfolio) · [Live ↗](https://jaspreet-singh-portfolio-three.vercel.app/) |
+| **My Portfolio** | The design, live work and story behind these builds | [Explore live work ↗](https://jaspreet-singh-portfolio-three.vercel.app/) |
 
 [**Browse all repositories →**](https://github.com/jaspreetsinghdev786?tab=repositories)
 
